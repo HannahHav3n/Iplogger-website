@@ -2,6 +2,9 @@
 
 > *Written with vanilla js and html*
 
+This is made for educational purposes only to help people who want to stop scammers practise decompiling scam websites to find taret webhooks
+I DO NOT CONDONE THE USAGE OF THIS TO `HACK` PEOPLE
+
 # How to use
 > Set up the file on a websever of your choose.
 
