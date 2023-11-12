@@ -24,6 +24,8 @@ I DO NOT CONDONE THE USAGE OF THIS TO `HACK` PEOPLE
 
 2. Log into ngrok with your github, SSO or make a new account
 
+![Screenshot](setup/Signup.png)
+
 3. Download ngrok by selecting your operating system and clicking download, save it to the same folder as the html and assets file
 
 4. In that folder after download run `ngrok config add-authtoken YOUR-AUTH-TOKEN`, you can get your auth token from `https://dashboard.ngrok.com/get-started/your-authtoken`
