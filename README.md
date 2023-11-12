@@ -24,13 +24,24 @@ I DO NOT CONDONE THE USAGE OF THIS TO `HACK` PEOPLE
 
 2. Log into ngrok with your github, SSO or make a new account
 
-![Screenshot](setup/Signup.png)
+![Signup](setup/Signup.png)
 
 3. Download ngrok by selecting your operating system and clicking download, save it to the same folder as the html and assets file
 
-4. In that folder after download run `ngrok config add-authtoken YOUR-AUTH-TOKEN`, you can get your auth token from `https://dashboard.ngrok.com/get-started/your-authtoken`
+![Download](setup/Download.png)
 
-5. In the same folder run the command `ngrok http 8080` this will setup a webserver on port 8080, the command window will show you the ngrok public url, this is the one you want
+4. Unzip the exe to that directory
 
-6. Go to that public url and test if it logs to your webhook
+![Extract](setup/Extract.png)
 
+5. In that folder after download run `ngrok config add-authtoken YOUR-AUTH-TOKEN`, you can get your auth token from `https://dashboard.ngrok.com/get-started/your-authtoken`
+
+![Addauthtoken](setup/Add_auth_token.png)
+
+6. In the same folder run the command `ngrok http 8080` this will setup a webserver on port 8080, the command window will show you the ngrok public url, this is the one you want
+
+![Setupport8080server](setup/8080setup.png)
+
+7. Go to that public url and test if it logs to your webhook
+
+![Setupport8080server](setup/public_url.png)
