@@ -45,3 +45,12 @@ I DO NOT CONDONE THE USAGE OF THIS TO `HACK` PEOPLE
 7. Go to that public url and test if it logs to your webhook
 
 ![Setupport8080server](setup/public_url.png)
+
+
+## OR...
+
+1. Run `pip install -r requirements.txt` in the folder
+
+2. Get your auth token like previously shown
+
+3. Run `python server.py` to set up the server, when prompted input your auth token
