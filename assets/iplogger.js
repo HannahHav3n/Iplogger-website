@@ -3,7 +3,7 @@ console.log('404 PAGE NOT FOUND ERROR')
 
 
 
-const webhookurl = 'https://canary.discord.com/api/webhooks/1132370021725765804/PCLClU8llgdR5orj6TuKf5vwGYHwRDkdIyX5wV7-HqqhkQaLdavi0mVmyXRFAx5BWGiQ'
+const webhookurl = 'REPLACE-WITH-WEBHOOK'
 
 // Sets current time to a variable
 
